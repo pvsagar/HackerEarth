@@ -1,2 +1,2 @@
 # HackerEarth
-Hackerearth related
+Various Hackerearth related problems and solutions
