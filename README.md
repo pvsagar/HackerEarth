@@ -1,2 +1,2 @@
-# HackerEarth
-Various Hackerearth related problems and solutions
+# HackerRank
+Various HackerRank related problems and solutions
